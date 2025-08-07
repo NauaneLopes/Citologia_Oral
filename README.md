@@ -24,23 +24,29 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 - Dados: 5 classes celulares, uso focado em *normal vs abnormal*
 - Input: imagens em escala de cinza com segmentações
 - Performance:
-  - Acurácia: ``
-  - F1-score para abnormal: ``
-  - F1-score para normal: ``
+  - Acurácia | para abnormal: ` ` para normal: ` `
+  - F1-score | para abnormal: ` ` para normal: ` `
+  - Precisão | para abnormal: ` ` para normal: ` `
+  - Recall   | para abnormal: ` ` para normal: ` `
+  - AUC ROC: 
 
 ---
 
-## Exemplos de Resultados
- Matriz de Confusão |
+Resultados
+ Matriz de Confusão | Curva ROC |Erro de Treinamento e Validação | Acurácia de Treinamento e Validação | Gráfico Precisão e Recall
 |--------------------|
-'![Confusion](results/matriz_confusao.png) |'
-
+'![Confusao]() |'
+'![AUC ROC]()  |'
+'![Erro_tv]()  |'
+'![Ac tv  ]()  |'
+'![Prec pr]()  |'
 ---
+
 
 ##  Dataset
 
 - Fonte: Mendeley Data - Citologia esfoliativa oral <https://data.mendeley.com/datasets/dr7ydy9xbk/2>
-- Ou Imagens já pré processadas - <https://drive.google.com/drive/folders/10vCpH-FHLrCuGJeGUv35oHLer2AuQiQR?usp=sharing>
+- Ou Imagens já pré processadas - <https://drive.google.com/drive/folders/10vCpH-FHLrCuGJeGUv35oHLer2AuQiQR?usp=sharing> para modelos CNN. 
 - Formato: imagens 224x224
 - Organização: `train`, `val`, `test`
 
@@ -52,4 +58,4 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/NauaneLopes//classificacao-celulas-citologicas.git
+git clone https://https://github.com/NauaneLopes/Citologia_Oral.git
