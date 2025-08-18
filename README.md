@@ -36,11 +36,11 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 Resultados
  Matriz de Confusão | Curva ROC |Erro de Treinamento e Validação | Acurácia de Treinamento e Validação | Gráfico Precisão e Recall
 |--------------------|
-'![Confusao]() |'
-'![AUC ROC]()  |'
-'![Erro_tv]()  |'
-'![Ac tv  ]()  |'
-'![Prec pr]()  |'
+'![mc]() |'
+'![roc]()  |'
+'![loss]()  |'
+'![accuracy]()  |'
+'![pr]()  |'
 ---
 
 
