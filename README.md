@@ -41,7 +41,7 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 - Formato: imagens 224x224
 - Organização: `train`, `val`, `test`
 
-> Devido a direitos de uso, os dados não estão incluídos. Veja o [README na pasta data](./data/README.md) para instruções de acesso.
+> Devido a direitos de uso, os dados não estão incluídos. Veja o [README na pasta data](./README.md) para instruções de acesso.
 
 ---
 ## Aviso
