@@ -32,6 +32,14 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
   - AUC ROC: 0.98
 
 - Foram aplicados outras arquiteturas, como EfficientNet (B2, B3 e B7); ResNet50; VGG16, DecisionTree; RandomForestClassifier; GradientBoosting e XGBostClassifier. Que pode ser visualizado no arquivo [MODELOS_APLICADOS_CNN.ipynb](./MODELOS_APLICADOS_CNN.ipynb) e [Modelos_Árvores.ipynb](./Modelos_Árvores.ipynb).
+
+## RESULTADOS
+
+ACURÁVIA: [accuracy.png](./accuracy.png)
+LOSS: [loss.png](./loss.png)
+MATRIZ DE CONFUSÃO: [mc.png](./mc.png)
+CURVA PRECISÃO RECALL: [pr.png](./pr.png)
+CURVA ROC: [roc.png](./roc.png)
 ---
 
 ##  Dataset
