@@ -21,15 +21,15 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 
 ##  Modelo Treinado
 
-- Arquitetura: ``
+- Arquitetura: `ResNet34`
 - Dados: 5 classes celulares, uso focado em *normal vs abnormal*
 - Input: imagens em escala de cinza com segmentações
 - Performance:
-  - Acurácia | para abnormal: ` ` para normal: ` `
-  - F1-score | para abnormal: ` ` para normal: ` `
-  - Precisão | para abnormal: ` ` para normal: ` `
-  - Recall   | para abnormal: ` ` para normal: ` `
-  - AUC ROC: 
+  - Acurácia | para abnormal: `97% ` para normal: `91% `
+  - F1-score | para abnormal: `97% ` para normal: `92%`
+  - Precisão | para abnormal: `97%` para normal: `91%`
+  - Recall   | para abnormal: `96%` para normal: `93%`
+  - AUC ROC: 0.98
 
 ---
 
