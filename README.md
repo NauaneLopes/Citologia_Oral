@@ -31,18 +31,8 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
   - Recall   | para abnormal: `96%` para normal: `93%`
   - AUC ROC: 0.98
 
+- Foram aplicados outras arquiteturas, como EfficientNet (B2, B3 e B7); ResNet50; VGG16, DecisionTree; RandomForestClassifier; GradientBoosting e XGBostClassifier. Que pode ser visualizado no arquivo [README na pasta data](./data/MODELOS_APLICADOS_CNN.ipynb) e [README na pasta data](./Modelos_Árvores.ipynb).
 ---
-
-Resultados
- Matriz de Confusão | Curva ROC |Erro de Treinamento e Validação | Acurácia de Treinamento e Validação | Gráfico Precisão e Recall
-|--------------------|
-'![mc]() |'
-'![roc]()  |'
-'![loss]()  |'
-'![accuracy]()  |'
-'![pr]()  |'
----
-
 
 ##  Dataset
 
@@ -54,9 +44,7 @@ Resultados
 > Devido a direitos de uso, os dados não estão incluídos. Veja o [README na pasta data](./data/README.md) para instruções de acesso.
 
 ---
+## Aviso
+Os modelos aplicados estão disponíveis na biblioteca keras, foram aplicados conforme apresentado na documentação.
 
-## Como Executar
 
-1. Clone o repositório:
-```bash
-git clone https://https://github.com/NauaneLopes/Citologia_Oral.git
