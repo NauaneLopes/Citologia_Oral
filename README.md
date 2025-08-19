@@ -35,7 +35,7 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
 
 ## RESULTADOS
 
-ACURÁVIA: [accuracy.png](./accuracy.png)
+ACURÁCIA: [accuracy.png](./accuracy.png)
 LOSS: [loss.png](./loss.png)
 MATRIZ DE CONFUSÃO: [mc.png](./mc.png)
 CURVA PRECISÃO RECALL: [pr.png](./pr.png)
