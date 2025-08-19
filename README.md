@@ -52,7 +52,7 @@ CURVA ROC: [roc.png](./roc.png)
 ## Dashboard
 
 Pode ser visualizado nesse arquivo [RELATÓRIO_DASH_RN34.ipynb](./RELATÓRIO_DASH_RN34.ipynb)
-> Devido a direitos de uso, os dados não estão incluídos. Veja o [README na pasta data](./README.md) para instruções de acesso.
+> Devido a direitos de uso, os dados não estão incluídos. Veja o [README](./README.md) para instruções de acesso.
 
 ---
 ## Aviso
