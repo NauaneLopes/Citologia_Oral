@@ -49,10 +49,15 @@ CURVA ROC: [roc.png](./roc.png)
 - Formato: imagens 224x224
 - Organização: `train`, `val`, `test`
 
+## Dashboard
+
+Pode ser visualizado nesse arquivo [RELATÓRIO_DASH_RN34.ipynb](./RELATÓRIO_DASH_RN34.ipynb)
 > Devido a direitos de uso, os dados não estão incluídos. Veja o [README na pasta data](./README.md) para instruções de acesso.
 
 ---
 ## Aviso
 Os modelos aplicados estão disponíveis na biblioteca keras, foram aplicados conforme apresentado na documentação.
+Link Keras: <https://keras.io/api/applications/>
+Link PyTorch: <https://docs.pytorch.org/vision/main/models.html>
 
 
