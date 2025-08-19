@@ -31,7 +31,7 @@ Este projeto tem como objetivo identificar células saudáveis (normais) e não 
   - Recall   | para abnormal: `96%` para normal: `93%`
   - AUC ROC: 0.98
 
-- Foram aplicados outras arquiteturas, como EfficientNet (B2, B3 e B7); ResNet50; VGG16, DecisionTree; RandomForestClassifier; GradientBoosting e XGBostClassifier. Que pode ser visualizado no arquivo [MODELOS_APLICADOS_CNN.ipynb](./MODELOS_APLICADOS_CNN.ipynb) e [Modelos_Árvores.ipynb](./Modelos_Árvores.ipynb). Esses modelos apresentaram resultados similares, para as métricas avaliadas no modelo ResNet34, com valores igual ou superior a 89% para as classes Normal e Abnormal.
+- Foram aplicados outras arquiteturas, como EfficientNet (B2, B3 e B7); ResNet50; VGG16, DecisionTree; RandomForestClassifier; GradientBoosting e XGBostClassifier. Que podem ser visualizados no arquivo [MODELOS_APLICADOS_CNN.ipynb](./MODELOS_APLICADOS_CNN.ipynb) e [Modelos_Árvores.ipynb](./Modelos_Árvores.ipynb). Esses modelos apresentaram resultados similares, para as métricas avaliadas no modelo ResNet34, com valores iguais ou superior a 89% para as classes Normal e Abnormal.
 
 ## RESULTADOS
 
